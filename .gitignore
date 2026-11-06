@@ -1,0 +1,27 @@
+cat > .gitignore << 'EOF'
+# ---- Python ----
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# ---- OS / IDE ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---- Data & databases (regenerate via src/etl/generate_digital_twin.py) ----
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# ---- Generated outputs ----
+outputs/
+
+# ---- Source PDFs: public CPWD/SMC docs, keep local, cite in README ----
+*.pdf
+EOF
