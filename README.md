@@ -9,7 +9,7 @@
 <p align="center"><b>Atal Bihari Bajpayee Bhavan | 500-Seater EWS Hostel, SVNIT Surat</b></p>
 
 <p align="center">
-  <a href="[[https://public.tableau.com/app/profile/YOUR_PROFILE/viz/YOUR_VIZ_NAME/Dashboard](https://public.tableau.com/views/BoysHostelBuildingPerformanceReport/HostelBuildingPerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/app/profile/srivastav.n/viz/BoysHostelBuildingPerformanceReport/HostelBuildingPerformance)">
+  <a href="https://public.tableau.com/app/profile/srivastav.n/viz/BoysHostelBuildingPerformanceReport/HostelBuildingPerformance">
     <img src="https://img.shields.io/badge/🚀_Launch_Live_Dashboard-Click_Here-2EC4B6?style=for-the-badge" />
   </a>
 </p>
